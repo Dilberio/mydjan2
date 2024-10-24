@@ -13,8 +13,8 @@ db.sqlite3
 
 # Dossier "static" à la racine du projet
 /static/
-/mysite5/
-/polls/
+#/mysite5/
+#/polls/
 
 # macOS
 ._*
